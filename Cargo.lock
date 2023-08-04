@@ -807,7 +807,7 @@ checksum = "57bcfdad1b858c2db7c38303a6d2ad4dfaf5eb53dfeb0910128b2c26d6158503"
 [[package]]
 name = "livekit"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "futures-util",
  "lazy_static",
@@ -826,7 +826,7 @@ dependencies = [
 [[package]]
 name = "livekit-api"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "futures-util",
  "livekit-protocol",
@@ -846,7 +846,7 @@ dependencies = [
 [[package]]
 name = "livekit-protocol"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "futures-util",
  "parking_lot",
@@ -870,7 +870,7 @@ dependencies = [
 [[package]]
 name = "livekit-webrtc"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "cxx",
  "futures",
@@ -2015,7 +2015,7 @@ dependencies = [
 [[package]]
 name = "webrtc-sys"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "cc",
  "cxx",
@@ -2028,7 +2028,7 @@ dependencies = [
 [[package]]
 name = "webrtc-sys-build"
 version = "0.1.3"
-source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#bd8755ac715ca5acf6545f02eb23ae69e29952e3"
+source = "git+https://github.com/robtfm/client-sdk-rust?branch=h264-false#6079dba761701b0a07ef6f2979cc2288c43f30af"
 dependencies = [
  "fs2",
  "regex",
