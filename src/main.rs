@@ -5,7 +5,7 @@ fn main() {
 #[test]
 fn test_reqwest() {
     reqwest::blocking::get("https://google.com").unwrap();
-    futures_lite::future::block_on(_not_used);
+    futures_lite::future::block_on(_not_used());
 }
 
 async fn _not_used() {
